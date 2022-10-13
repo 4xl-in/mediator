@@ -22,8 +22,8 @@ author_image: '/assets/images/author.jpg'
 
 paginate: 5
 
-url: 'https://www.4xl.in' # the base hostname & protocol for your site
-baseurl: '/mediator'
+url: 'https://mediator.4xl.in' # the base hostname & protocol for your site
+baseurl: ''
 #used to display twitter cards
 twitter_handle: '@deepakmahakale'
 
